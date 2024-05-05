@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+</head>
+<body>
+    <nav>
+        <a href="part1.html">Home</a>
+        <a href="part2.html">About Me</a>
+    </nav>
+    <main>
+        <h1>Welcome to My Website</h1>
+        <img src="rrrri.jpg" width="900" height="800">
+        <p>Name: <span id="nama">Triwahyuning A</span></p>
+        <p>My story:</p>
+        <p id="cerita-diri"></p>
+        <p>Hello everyone, my name is Tri, I'm a student at SMKN 1 Doko majoring in TKJ.
+            My hobby is trying new things.</p>
+        <p>I'm interested in developing web programming and other programming languages I haven't tried yet.</p>
+        <p>My talent is being brave to try new things.</p>
+        <p>My daily activities are school.</p>
+        <p>On holidays, I usually browse Instagram.</p>
+        <p>If I have a big intention to learn coding,</p>
+    </main>
+</body>
+</html>
